@@ -1,0 +1,4 @@
+.qmake.*
+*.user
+/build
+.vscode
